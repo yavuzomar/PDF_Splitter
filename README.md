@@ -1,1 +1,6 @@
-# PDF_Splitter
+## PDF Splitter ##
+
+**modules required**:
+*tkinter*,
+*pdfrw*,
+*os*
